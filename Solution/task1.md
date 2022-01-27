@@ -1,5 +1,4 @@
-![alt-текст][logo]
-
-[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png
+task1.1: 
+![](https://github.com/ppc-ntu-khpi/java-0-EgorKopyl/blob/master/Solution/task1.1.png)
 task1.2:  
-![](https://replit.com/@EgorKopyl/java-0-EgorKopyl#Solution/task1.2.png)
+![](https://github.com/ppc-ntu-khpi/java-0-EgorKopyl/blob/master/Solution/task1.2.png)
